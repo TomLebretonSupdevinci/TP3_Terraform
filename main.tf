@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "Node-Terraform_group" {
-    name = "Node-Terraform_group"
+resource "azurerm_resource_group" "Pierre_and_Tom_group" {
+    name = "Pierre_and_Tom_group"
     location = "Eastus"
 }
